@@ -1,0 +1,11 @@
+E:\Prosjekter\C#\algs4CS\bin\Debug\netcoreapp3.1\algs4CS.exe
+E:\Prosjekter\C#\algs4CS\bin\Debug\netcoreapp3.1\algs4CS.deps.json
+E:\Prosjekter\C#\algs4CS\bin\Debug\netcoreapp3.1\algs4CS.runtimeconfig.json
+E:\Prosjekter\C#\algs4CS\bin\Debug\netcoreapp3.1\algs4CS.runtimeconfig.dev.json
+E:\Prosjekter\C#\algs4CS\bin\Debug\netcoreapp3.1\algs4CS.dll
+E:\Prosjekter\C#\algs4CS\bin\Debug\netcoreapp3.1\algs4CS.pdb
+E:\Prosjekter\C#\algs4CS\obj\Debug\netcoreapp3.1\algs4CS.csprojAssemblyReference.cache
+E:\Prosjekter\C#\algs4CS\obj\Debug\netcoreapp3.1\algs4CS.AssemblyInfoInputs.cache
+E:\Prosjekter\C#\algs4CS\obj\Debug\netcoreapp3.1\algs4CS.AssemblyInfo.cs
+E:\Prosjekter\C#\algs4CS\obj\Debug\netcoreapp3.1\algs4CS.dll
+E:\Prosjekter\C#\algs4CS\obj\Debug\netcoreapp3.1\algs4CS.pdb
